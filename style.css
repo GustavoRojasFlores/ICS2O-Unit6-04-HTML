@@ -12,14 +12,13 @@ h2 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   padding: 5px;
   border: 5px solid rgb(165, 153, 235);
-  diplay: block;
   margin-right: 600px;
   background-color: rgb(101, 78, 235);
 }
 
 button {
   background-color: darkcyan;
-  color:aqua;
+  color: aqua;
 }
 
 input {
