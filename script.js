@@ -1,7 +1,5 @@
 const button = document.getElementById('btn')
 button.addEventListener('click', calculate)
-const buttonBkg = button.style.backgroundColor
-const buttonColor = button.style.color
 
 function calculate () {
   const a = document.getElementById('a').value * 1
